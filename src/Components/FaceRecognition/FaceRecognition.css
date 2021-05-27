@@ -1,0 +1,21 @@
+.helpingout {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 500px;
+}
+.imgSettings {
+
+    width: 500px;
+    height: auto;
+    margin-top: 1rem;
+}
+
+.bounding-box {
+    position: absolute;
+    box-shadow: 0 0 0 3px #149df2 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
